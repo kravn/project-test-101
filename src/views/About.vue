@@ -17,7 +17,8 @@
     data () {
       return {
         people: ['Arnold'],
-        name: ''
+        name: '',
+        address: ''
       }
     },
     methods: {
