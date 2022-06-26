@@ -1,7 +1,7 @@
 <template>
   <div id="nav">
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/about-me">About</router-link>
     <!-- <button @click="goToAbout">About 2</button>
     <div>{{ age }}</div>
     <input v-model="age" type="text"> -->
